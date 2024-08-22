@@ -1,6 +1,10 @@
 .vs/
 *.user
 *.suo
-*.vcxproj.user
-*.csproj.user
-*.sln.docstates
+*.dbmdl
+*.log
+*.obj
+*.exe
+*.dll
+bin/
+obj/
