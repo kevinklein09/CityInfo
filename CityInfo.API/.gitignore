@@ -3,6 +3,7 @@
 *.suo
 *.dbmdl
 *.log
+*.tmp
 *.obj
 *.exe
 *.dll
