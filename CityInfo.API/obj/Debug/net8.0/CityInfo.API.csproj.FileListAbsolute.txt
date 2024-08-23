@@ -64,3 +64,4 @@ C:\Users\Kevin\projects\pluralsight\CityInfoAPI\CityInfo\CityInfo.API\obj\Debug\
 C:\Users\Kevin\projects\pluralsight\CityInfoAPI\CityInfo\CityInfo.API\obj\Debug\net8.0\CityInfo.API.pdb
 C:\Users\Kevin\projects\pluralsight\CityInfoAPI\CityInfo\CityInfo.API\obj\Debug\net8.0\CityInfo.API.genruntimeconfig.cache
 C:\Users\Kevin\projects\pluralsight\CityInfoAPI\CityInfo\CityInfo.API\obj\Debug\net8.0\ref\CityInfo.API.dll
+C:\Users\Kevin\projects\pluralsight\CityInfoAPI\CityInfo\CityInfo.API\bin\Debug\net8.0\hd-wallpaper-g6c22f9b4e_1920.jpg
