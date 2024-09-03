@@ -50,6 +50,7 @@ namespace CityInfo.API.Controllers
             {
                 return NotFound();
             }
+
             // demo purposes - to be improved
             var maxPointOfInterestId = CitiesDataStore.Current.Cities.SelectMany(c => c.PointsOfInterests).Max(p => p.Id);
 
