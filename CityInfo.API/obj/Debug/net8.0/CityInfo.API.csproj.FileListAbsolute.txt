@@ -80,3 +80,4 @@ C:\Users\kevink\projects\pluralsight\CityInfoAPI\CityInfo\CityInfo.API\bin\Debug
 C:\Users\kevink\projects\pluralsight\CityInfoAPI\CityInfo\CityInfo.API\bin\Debug\net8.0\Serilog.Sinks.Console.dll
 C:\Users\kevink\projects\pluralsight\CityInfoAPI\CityInfo\CityInfo.API\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
 C:\Users\kevink\projects\pluralsight\CityInfoAPI\CityInfo\CityInfo.API\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Users\kevink\projects\pluralsight\CityInfoAPI\CityInfo\CityInfo.API\bin\Debug\net8.0\appsettings.production.json
